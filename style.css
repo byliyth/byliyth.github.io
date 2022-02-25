@@ -1,0 +1,16 @@
+#log {
+  margin: auto;
+  width: 600px;
+  border: 1px solid black;
+  padding: 35px;
+  padding-bottom: 20px;
+}
+
+p.log {
+  text-indent: 50px;
+}
+
+#log:empty {
+  border: none;
+  padding: 0px;
+}
